@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="seat_height">35dp</dimen>
+    <dimen name="seat_width">43dp</dimen>
+    <dimen name="seat_separation">4dp</dimen>
+    <dimen name="line_separation">8dp</dimen>
+
+    <dimen name="room_height">140dp</dimen>
+    <dimen name="room_width">160dp</dimen>
+    <dimen name="room_separation">16dp</dimen>
+    <dimen name="roomLine_separation">16dp</dimen>
+
+</resources>

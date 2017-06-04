@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#73c0ff</color>
+    <color name="colorAccent">#FF4081</color>
+    !-阅览室按钮颜色--
+    <color name="colorRoom">#e078cbff</color>
+    <color name="colorRoom2">#b4ddff</color>
+    !-座位选中与未选中颜色--
+    <color name="colorChose">#f40154</color>
+    <color name="colorNotChose">#92c9fc</color>
+    !-最上方工具栏颜色
+    <color name="colorBar">#d3e8fc</color>
+    !-背景颜色
+    <color name="colorBkg">#fdfdfd</color>
+</resources>
